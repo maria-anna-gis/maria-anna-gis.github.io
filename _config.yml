@@ -1,0 +1,24 @@
+title: "Maria- Geoinformatics Portfolio"
+description: "A Geoinformatics ePortfolio showcasing my projects, interests, and future goals."
+baseurl: "/"
+url: "https://username.github.io"  # Replace "username" with your GitHub username
+
+# Theme and Layout
+theme: jekyll-theme-minimal  # This uses a clean, simple theme for your portfolio
+
+# Navigation links
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Previous Work"
+    url: "/previous-work/"
+  - title: "Current Interests"
+    url: "/current-interests/"
+  - title: "Future Endeavours"
+    url: "/future-endeavours/"
+
+# Author info
+author:
+  name: "Your Name"
+  bio: "Geoinformatics student passionate about spatial data analysis, GIS, and remote sensing."
+  email: "youremail@example.com"
