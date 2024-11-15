@@ -1,44 +1,30 @@
-/* General Styles */
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f8ff; /* Light blue background */
-    color: #333;
-}
-
-.container {
-    display: flex;
-}
-
-/* Sidebar */
+/* Sidebar (consistent for all pages) */
 .sidebar {
     background-color: #333;
     color: white;
     width: 250px;
     height: 100vh;
     padding: 20px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
     position: fixed;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
 }
 
 .sidebar h1 {
-    font-size: 1.5rem;
+    color: #ff6347;
     text-align: center;
     margin-bottom: 20px;
-    color: #ff6347; /* Tomato */
 }
 
-.sidebar nav ul {
+.sidebar ul {
     list-style: none;
     padding: 0;
 }
 
-.sidebar nav ul li {
+.sidebar ul li {
     margin: 10px 0;
 }
 
-.sidebar nav ul li a {
+.sidebar ul li a {
     text-decoration: none;
     color: white;
     padding: 10px;
@@ -47,55 +33,38 @@ body {
     transition: background 0.3s;
 }
 
-.sidebar nav ul li a:hover {
+.sidebar ul li a:hover,
+.sidebar ul li a.active {
     background: #ff6347;
 }
 
 /* Main Content */
 main {
-    margin-left: 270px; /* Match sidebar width + margin */
+    margin-left: 270px;
     padding: 40px;
 }
 
-.landing {
-    background: linear-gradient(135deg, #ff7f50, #1e90ff); /* Gradient background */
+/* Header Section for Subpages */
+.header {
+    padding: 20px;
     color: white;
-    padding: 30px;
     border-radius: 10px;
     text-align: center;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
 }
 
-.landing h2 {
-    font-size: 2rem;
+/* Content Section */
+.content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h3 {
     margin-bottom: 15px;
+    color: #333;
 }
 
-.landing p {
-    font-size: 1.2rem;
-}
-
-.button {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 10px 20px;
-    background: #ff6347;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-    transition: background 0.3s;
-}
-
-.button:hover {
-    background: #1e90ff;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    padding: 10px;
-    background: #333;
-    color: white;
-    margin-top: 20px;
-}
+.content ul {
+    list-style: 
