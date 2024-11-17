@@ -6,10 +6,10 @@ html, body {
 }
 
 main.container {
-    border: 5px solid #333;       /* Apply a 5px solid border around the content */
+    border: 7px solid #ffffff;       /* Apply a 5px solid border around the content */
     border-radius: 10px;          /* Optional: rounded corners for the border */
     padding: 20px;                /* Add space inside the border around the text */
-    max-width: 1200px;            /* Optional: set a max-width for large screens */
+    max-width: 500px;            /* Optional: set a max-width for large screens */
     margin: 0 auto;   
 
 /* Fixed Navbar */
@@ -79,6 +79,6 @@ footer {
         text-align: center;      
     }
     .intro-photo {
-        max-width: 100%;         
+        max-width: 40%;         
     }
 }
