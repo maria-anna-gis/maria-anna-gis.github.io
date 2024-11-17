@@ -63,12 +63,12 @@ footer {
 .intro-photo {
     flex: 0 0 auto;        
     max-width: 150px;
-    width: 100%;
+    width: 40%;
 }
 
 /* Make sure the image doesn't overflow */
 .intro-photo img {
-    width: 100%;
+    width: 40%;
     height: auto;
 }
 
