@@ -38,3 +38,40 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+/* Flexbox for About Me section */
+.about-me .intro-content {
+    display: flex;                /* Use Flexbox for layout */
+    align-items: center;          /* Vertically center the items */
+    justify-content: space-between; /* Space out the text and image */
+    gap: 20px;                    /* Add space between text and image */
+}
+
+/* Text section */
+.intro-text {
+    flex: 1;
+}
+
+/* Image section */
+.intro-photo {
+    flex: 0 0 auto;        
+    max-width: 300px;
+    width: 100%;
+}
+
+/* Make sure the image doesn't overflow */
+.intro-photo img {
+    width: 100%;
+    height: auto;
+}
+
+/* Optional: For small screens, stack the text and photo vertically */
+@media (max-width: 768px) {
+    .about-me .intro-content {
+        flex-direction: column; 
+        text-align: center;      
+    }
+    .intro-photo {
+        max-width: 100%;         
+    }
+}
