@@ -1,75 +1,40 @@
-/* Ensure body and html take full height and reset margins */
+/* General Reset */
 html, body {
     height: 100%;
     margin: 0;
-    font-family: Arial, sans-serif; /* Optional: sets a clean font */
+    font-family: Arial, sans-serif;
 }
 
-/* Sticky Navbar (Fixed at the top of the page) */
+/* Fixed Navbar */
 nav.navbar {
-    position: fixed; /* Keeps navbar fixed at the top */
+    position: fixed;
     top: 0;
-    width: 100%;     /* Ensures navbar spans the full width of the screen */
-    z-index: 1000;   /* Keeps navbar above other content */
+    width: 100%;
+    z-index: 1000;
 }
 
-/* Add top padding to the main content so it doesn't hide behind the navbar */
 main {
-    padding-top: 70px; /* Adjust based on the height of your navbar */
+    padding-top: 80px; /* Ensure content is not hidden behind the navbar */
 }
 
-/* Centered Social Links above the footer */
+/* Centered Social Links */
 .social-links {
-    text-align: center;
-    margin: 20px 0;  /* Adds space above and below the icons */
+    margin: 20px 0;
 }
 
 .social-links a {
-    margin: 0 15px; /* Adds space between the icons */
+    margin: 0 10px;
 }
 
 .social-links img {
-    display: inline-block;
-    width: 30px; /* Adjust icon size */
+    width: 30px;
     height: auto;
-    vertical-align: middle;
 }
 
-/* Footer Styling */
+/* Footer */
 footer {
-    background-color: #343a40; /* Dark background */
-    color: #ffffff;            /* Light text */
-    text-align: center;        /* Center-align text */
-    padding: 20px 0;           /* Adds padding around footer content */
-    margin-top: 20px;          /* Adds spacing above footer */
-}
-
-footer .social-links {
-    margin-bottom: 10px; /* Space between icons and copyright text */
-}
-
-/* Ensure paragraphs have space between them */
-p {
-    line-height: 1.6; /* Adjust line height for better readability */
-    margin-bottom: 1em; /* Space between paragraphs */
-}
-
-/* Navbar items (optional customization) */
-.navbar-nav .nav-item .nav-link {
-    padding: 10px 15px; /* Padding for navigation links */
-}
-
-.navbar-nav .nav-item .nav-link.active {
-    font-weight: bold; /* Make active link bold */
-}
-
-/* Optional: Styling for smaller screens (responsive design) */
-@media (max-width: 768px) {
-    .navbar-nav {
-        text-align: center; /* Center navbar links on mobile */
-    }
-
-    .social-links {
-        margin-top: 15px; /* Add some margin above the social links */
-    }
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
