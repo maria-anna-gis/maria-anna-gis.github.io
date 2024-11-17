@@ -55,8 +55,8 @@ footer {
 /* Image section */
 .intro-photo {
     flex: 0 0 auto;        
-    max-width: 300px;
-    width: 100%;
+    max-width: 50px;
+    width: 20%;
 }
 
 /* Make sure the image doesn't overflow */
@@ -72,6 +72,6 @@ footer {
         text-align: center;      
     }
     .intro-photo {
-        max-width: 100%;         
+        max-width: 30%;         
     }
 }
