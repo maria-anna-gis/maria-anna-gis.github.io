@@ -5,6 +5,13 @@ html, body {
     font-family: Arial, sans-serif;
 }
 
+main.container {
+    border: 5px solid #333;       /* Apply a 5px solid border around the content */
+    border-radius: 10px;          /* Optional: rounded corners for the border */
+    padding: 20px;                /* Add space inside the border around the text */
+    max-width: 1200px;            /* Optional: set a max-width for large screens */
+    margin: 0 auto;   
+
 /* Fixed Navbar */
 nav.navbar {
     position: fixed;
@@ -50,13 +57,13 @@ footer {
 /* Text section */
 .intro-text {
     flex: 1;
+     font-size: 1.2rem;  
 }
 
-/* Image section */
 .intro-photo {
     flex: 0 0 auto;        
-    max-width: 50px;
-    width: 20%;
+    max-width: 150px;
+    width: 100%;
 }
 
 /* Make sure the image doesn't overflow */
@@ -72,6 +79,6 @@ footer {
         text-align: center;      
     }
     .intro-photo {
-        max-width: 30%;         
+        max-width: 100%;         
     }
 }
