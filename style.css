@@ -7,10 +7,22 @@ body {
     font-weight: bold;
 }
 
-.social-links a {
-    margin-right: 10px;
-    display: inline-block;
+/* Social Links */
+.social-links {
+    text-align: center; /* Center the icons */
+    margin: 20px 0;     /* Add spacing above and below the icons */
 }
+
+.social-links a {
+    margin: 0 15px; /* Spacing between each icon */
+}
+
+.social-links img {
+    width: 30px; /* Icon size */
+    height: auto;
+    vertical-align: middle;
+}
+
 
 footer {
     position: relative;
