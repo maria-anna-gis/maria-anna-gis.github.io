@@ -17,3 +17,23 @@ footer {
     bottom: 0;
     width: 100%;
 }
+/* Ensure the body and html take up the full height */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Make the main content area grow to fill available space */
+main {
+    flex: 1;
+}
+
+/* Footer sticks to the bottom */
+footer {
+    background-color: #343a40; /* Dark background */
+    color: #ffffff;           /* Light text */
+    text-align: center;
+    padding: 10px 0;
+}
