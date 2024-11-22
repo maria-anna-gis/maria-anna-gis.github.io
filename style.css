@@ -1,125 +1,84 @@
 /* General Reset */
-* {
+html, body {
+    height: 100%;
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
-/* Body and Typography */
-body {
-    font-family: 'Poppins', sans-serif;
-    line-height: 1.6;
-    background-color: #f7f7f7;
-    color: #333;
-}
+main.container {
+    border: 7px solid #ffffff;       /* Apply a 5px solid border around the content */
+    border-radius: 10px;          /* Optional: rounded corners for the border */
+    padding: 20px;                /* Add space inside the border around the text */
+    max-width: 500px;            /* Optional: set a max-width for large screens */
+    margin: 0 auto;   
 
-/* Sticky Top Bar */
-.top-bar {
-    position: sticky;
+/* Fixed Navbar */
+nav.navbar {
+    position: fixed;
     top: 0;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
     z-index: 1000;
 }
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    max-width: 1200px;
-    margin: 0 auto;
+main {
+    padding-top: 80px; /* Ensure content is not hidden behind the navbar */
 }
 
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-}
-
-.nav-links a {
-    text-decoration: none;
-    color: #0078ff;
-    font-weight: 600;
-    transition: color 0.3s ease;
-}
-
-.nav-links a:hover {
-    color: #0056b3;
-}
-
-/* About Section */
-.about {
-    padding: 50px 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-    max-width: 800px;
-    margin: 40px auto;
-}
-
-.about-content {
-    display: flex;
-    align-items: center;
-    gap: 30px;
-}
-
-.about-text {
-    flex: 1;
-}
-
-.about-text h1 {
-    font-size: 2rem;
-    color: #0078ff;
-    margin-bottom: 15px;
-}
-
-.about-image img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .about-content {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .about-image img {
-        margin-top: 20px;
-    }
-}
-
-/* Section Headings */
-h2 {
-    font-size: 1.5rem;
-    color: #0078ff;
+/* Centered Social Links */
+.social-links {
     margin: 20px 0;
-    text-align: center;
 }
 
-/* Footer */
-.footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: #fff;
-    margin-top: 40px;
-}
-
-.footer .social-links {
-    margin-bottom: 10px;
-}
-
-.footer a {
-    color: #0078ff;
-    text-decoration: none;
+.social-links a {
     margin: 0 10px;
 }
 
-.footer a:hover {
-    text-decoration: underline;
+.social-links img {
+    width: 30px;
+    height: auto;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Flexbox for About Me section */
+.about-me .intro-content {
+    display: flex;                /* Use Flexbox for layout */
+    align-items: center;          /* Vertically center the items */
+    justify-content: space-between; /* Space out the text and image */
+    gap: 20px;                    /* Add space between text and image */
+}
+
+/* Text section */
+.intro-text {
+    flex: 1;
+     font-size: 1.2rem;  
+}
+
+.intro-photo {
+    flex: 0 0 auto;        
+    max-width: 150px;
+    width: 40%;
+}
+
+/* Make sure the image doesn't overflow */
+.intro-photo img {
+    width: 40%;
+    height: auto;
+}
+
+/* Optional: For small screens, stack the text and photo vertically */
+@media (max-width: 768px) {
+    .about-me .intro-content {
+        flex-direction: column; 
+        text-align: center;      
+    }
+    .intro-photo {
+        max-width: 40%;         
+    }
 }
