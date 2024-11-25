@@ -1,4 +1,4 @@
-/* General Reset */
+/* General  */
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
@@ -17,7 +17,7 @@ body {
     top: 0;
     width: 100%;
     z-index: 1050; /* Ensure it stays above other elements */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
 }
 
 .nav-link {
@@ -37,12 +37,39 @@ main {
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 30px; /* Wider borders */
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+/* About Me Section */
+.about-me-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.about-me-content .text {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.intro-photo {
+    flex-shrink: 0;
+    text-align: right;
+}
+
+.intro-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #007bff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Sections and Text */
 h1, h2 {
     color: #007bff;
     margin-bottom: 20px;
@@ -59,20 +86,6 @@ ul {
 
 ul li {
     margin-bottom: 1rem;
-}
-
-/* Intro Photo */
-.intro-photo {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.intro-photo img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 4px solid #007bff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Social Links */
