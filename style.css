@@ -42,13 +42,13 @@ body {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 4rem;
     color: #333;
     margin-bottom: 15px;
 }
 
 p {
-    font-size: 1rem;
+    font-size: 2rem;
     color: #555;
     margin-bottom: 15px;
     line-height: 1.8;
@@ -57,7 +57,7 @@ p {
 /* Image */
 .intro-photo {
     flex-shrink: 0; /* Prevents the image from shrinking */
-    text-align: center;
+    text-align: right;
 }
 
 .intro-photo img {
