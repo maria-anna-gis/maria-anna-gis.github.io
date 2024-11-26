@@ -18,7 +18,18 @@ body {
     width: 100%;
     z-index: 1050; /* Ensure it stays above other elements */
     box-shadow: 0  6px 8px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
-    height: 80px;
+    padding: 80px;
+}
+
+.navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: white;
 }
 
 .nav-link {
