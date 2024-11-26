@@ -17,11 +17,13 @@ body {
     top: 0;
     width: 100%;
     z-index: 1050; /* Ensure it stays above other elements */
-    box-shadow: 15px 15px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
+    box-shadow: 0  6px 8px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
+    height: 80px;
 }
 
 .nav-link {
     font-weight: bold;
+    padding: 10px 15px;
     transition: color 0.3s ease;
 }
 
