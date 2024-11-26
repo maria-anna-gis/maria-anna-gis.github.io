@@ -17,7 +17,7 @@ body {
     top: 0;
     width: 100%;
     z-index: 1050; /* Ensure it stays above other elements */
-    box-shadow: 0  6px 8px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
+    box-shadow: 0  6px 40px rgba(0, 0, 0, 0.1); /* 1.5x larger top border shadow */
     padding: 80px;
 }
 
