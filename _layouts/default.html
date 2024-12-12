@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="icon" href="{{ "/assets/images/favicon.svg" | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h2><a href="https://maria-anna-gis.github.io">{{ site.title }}</a></h2>
+            <nav>
+                <ul>
+                    <li><a href="https://maria-anna-gis.github.io">About me</a></li>
+                    <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+                    <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="content-container">
+        <h1>{{ page.title }}</h1>
+        {% if page.date %}
+            <p><small>{{ page.date | date: "%B %d, %Y" }}</small></p>
+        {% endif %}
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>EPortfolio of Maria Anna Fedyszyn, © Copyright 2024. All rights reserved.<br><br></p>
+        <p> </p>
+    </footer>
+
+    <!-- Fullscreen Modal -->
+    <div id="imageModal" style="display:none;">
+        <span onclick="closeModal()" style="cursor:pointer;">&times;</span>
+        <img id="modalImage" style="display:block; margin:auto; max-width:80%;">
+        <div id="modalDescription" style="color:#fff; text-align:center; margin-top:20px;"></div>
+    </div>
+
+    <!-- JavaScript Functions -->
+    <script>
+        function openModal(src, desc) {
+            var modal = document.getElementById("imageModal");
+            var modalImg = document.getElementById("modalImage");
+            var modalDesc = document.getElementById("modalDescription");
+            modal.style.display = "block";
+            modalImg.src = src;
+            modalDesc.textContent = desc || "No description available.";
+        }
+
+        function closeModal() {
+            var modal = document.getElementById("imageModal");
+            modal.style.display = "none";
+        }
+    </script>
+</body>
+</html>
