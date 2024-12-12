@@ -12,9 +12,9 @@ title: About
     This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
     
        Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. 
-       Overall, my research interests focus on changing environments with a specific interest in geomorphology and the cryosphere.</p>
+       Overall, my research interests focus on changing environments with a specific interest in geomorphology and the cryosphere.
     </div>
-    <img src="{{ "/assets/images/maria.jpg" | relative_url }}" alt="Maria" class="about-image">
+    <img src="{{ "maria-anna-gis.github.io/assets/images/maria.jpg" }}" alt="This is a photo of Maria" class="about-image">
 </div>
 
 <!-- Icons Section -->
@@ -37,11 +37,11 @@ title: About
         <br>Specialised in Air Quality, Acoustics and Health. Integrated GIS throughout projects/
     </li>
     <li>
-         <strong>Travel - Career Break | Septmeber 2021 - September 2022 </strong>
-         <br>Following completion of school, I worked as a Swimming teacher and backpacked across northern europoe.
+         <strong>Travel - Career Break | September 2021 - September 2022 </strong>
+         <br>Following completion of school, I worked as a Swimming Teacher and backpacked across northern Europe.
     </li>
     <li>
-        <strong>Travel - Career Break | Septmeber 2018 - September 2019 </strong>
+        <strong>Travel - Career Break | September 2018 - September 2019 </strong>
         <br>Following completion of school, I lived in Australia for one year.
     </li>
 </ul>
@@ -54,10 +54,10 @@ title: About
     </li>
     <li>
         <strong>Paris Lodron Universität Salzburg | September 2024</strong>
-        <br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geoinformatics & Earth Oberservation
+        <br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geoinformatics & Earth Observation
     </li>
     <li>
         <strong>Cardiff University, Wales | September 2019 - July 2023</strong>
-        <br>Bachelor of Science - BSc Hons, Environmental Geography
+        <br>Bachelor of Science - BSc First Class Hons, Environmental Geography
     </li>
 </ul>
