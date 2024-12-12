@@ -301,3 +301,18 @@ footer p {
         margin-top: 20px; /* Add space above the image */
     }
 }
+
+.contact-icons {
+    text-align: centre;
+}
+
+.contact-icons a {
+    margin-right: 15px;
+    color: #333;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.contact-icons a:hover {
+    color: #6c6c6c;
+}
