@@ -222,6 +222,12 @@ footer p {
     line-height: 1.6; /* Line height for readability */
 }
 
+.experience-image {
+    width: 30px;  /* Adjust size */
+    height: auto;
+    margin-right: 10px;
+}
+
 /* Blog Post List */
 .blog-list {
     max-width: 900px; /* Ensure it matches the max width of other content */
