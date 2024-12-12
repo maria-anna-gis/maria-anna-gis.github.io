@@ -1,0 +1,15 @@
+---
+layout: default
+title: "This is a placeholder"
+date: 12-12-2024
+categories: [blog]
+permalink: /blog/Test
+---
+
+# This is the main title
+### This is a subtitle
+
+<div class="blog-image">
+  <img src="{{ '/assets/images/blogs/test.png' | relative_url }}" alt="This is a test photo!">
+  <figcaption>Test photo!!!</figcaption>
+</div>
