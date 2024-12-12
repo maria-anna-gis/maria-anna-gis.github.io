@@ -122,7 +122,10 @@ footer p {
         text-align: left;
         line-height: 1.2;
     }
-
+    
+ h1 {
+    font-size: 24px;  /* Adjust the size as needed */
+}
     .gallery-container {
         flex-direction: column; /* Stack items vertically on smaller screens */
         align-items: center; /* Center items */
