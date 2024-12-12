@@ -1,0 +1,437 @@
+/* Global Styles */
+body {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/* Container for All Content */
+.container {
+    max-width: 1100px;  /* Set max-width to limit content width */
+    margin: 0 auto;  /* Center the container */
+    padding: 0 100px; /* Add padding to left and right */
+}
+
+/* Header Styles */
+header {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column; /* Stack header elements vertically */
+    align-items: center; /* Center align header content */
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    width: 100%;
+    padding: 0 100px;  /* Add padding to left and right */
+}
+
+header h2 a {
+    text-decoration: none; /* Remove underline */
+    color: #000000;
+}
+
+/* Navigation Styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Ensure horizontal layout by default */
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    font-family: 'PT Sans', sans-serif;
+    color: #000000;
+    text-decoration: none;
+}
+
+a {
+    color: #000000;
+}
+
+/* Main Content Styles */
+main {
+    max-width: 900px;
+    line-height: 1.6;
+    margin: 0 auto;
+    padding: 20px 100px; /* Add padding to left and right */
+    text-align: justify;
+}
+
+/* Content Container (if using additional container for main content) */
+.content-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 100px; /* Add padding to left and right */
+    text-align: justify;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+    text-align: center;
+}
+
+/* Responsive Adjustment */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 20px;  /* Adjust padding for smaller screens */
+    }
+
+    .header-container {
+        padding: 0 0;  /* Adjust padding for smaller screens */
+    }
+
+    main,
+    .content-container {
+        padding: 0 30px;  /* Adjust padding for smaller screens */
+    }
+
+    h2.blog-title {
+        text-align: left;
+        line-height: 1.2;
+    }
+
+    h1, h2, h3 {
+        text-align: left;
+        line-height: 1.2;
+    }
+
+    .gallery-container {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+        align-items: center; /* Center items */
+    }
+
+    .gallery-item {
+        flex: 1 1 100%; /* Take full width on smaller screens */
+        margin-bottom: 20px; /* Space between items */
+    }
+
+    .gallery-item img {
+        width: 100%; /* Full width image on smaller screens */
+        filter: none; /* Remove grayscale */
+        transform: none; /* Disable scale effect */
+        transition: none; /* Disable transition for instant effect */
+    }
+
+    .gallery-item img:hover {
+        filter: none; /* No grayscale on hover */
+        transform: none; /* No scale on hover */
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0 10px;  /* Adjust padding for mobile screens */
+    }
+
+    .header-container {
+        padding: 0 0;  /* Adjust padding for smaller screens */
+    }
+
+    main,
+    .content-container {
+        padding: 0 30px;  /* Adjust padding for smaller screens */
+    }
+
+    h2.blog-title {
+        text-align: left;
+        line-height: 1.2;
+    }
+
+    h1, h2, h3 {
+        text-align: left;
+        line-height: 1.2;
+    }
+
+    .gallery-item img {
+        filter: none; /* Remove grayscale */
+        transform: none; /* Disable scale effect */
+        transition: none; /* Disable transition for instant effect */
+    }
+
+    .gallery-item img:hover {
+        filter: none; /* No grayscale on hover */
+        transform: none; /* No scale on hover */
+    }
+}
+
+/* Style for the section divider line */
+.section-divider {
+    border: 0; /* Remove default border */
+    border-top: 1px solid #ddd; /* Light gray line */
+    margin: 20px 0; /* Space above and below the line */
+    width: 100%; /* Full width of the container */
+    max-width: 1200px; /* Optional: limit width for large screens */
+    margin-left: auto; /* Center the line horizontally */
+    margin-right: auto; /* Center the line horizontally */
+}
+
+/* Container for about me section */
+.about-container {
+    display: flex; /* Align items horizontally by default */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space out text and image */
+    margin: 20px 0; /* Margin for spacing around the container */
+}
+
+/* Style for the image */
+.about-image {
+    max-width: 250px; /* Set max width for the image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: add rounded corners */
+    margin-left: 40px; /* Space between text and image */
+}
+
+/* Style for the text */
+.about-text {
+    flex: 1; /* Allow text to take up the remaining space */
+    line-height: 1.6; /* Line height for readability */
+}
+
+/* Blog Post List */
+.blog-list {
+    max-width: 900px; /* Ensure it matches the max width of other content */
+    margin: 0 auto;
+}
+
+/* Individual Blog Post */
+.blog-post {
+    margin-bottom: 20px; /* Space between blog posts */
+    padding-bottom: 20px; /* Space below the blog post */
+}
+
+/* Blog Title */
+.blog-title {
+    /*text-align: left;*/
+    font-size: 1.5em; /* Adjust size as needed */
+    margin: 0;
+}
+
+.blog-title a {
+    text-decoration: none; /* Remove underline from links */
+    color: #000; /* Link color */
+}
+
+/* Blog Preview */
+.blog-preview {
+    font-size: 1em;
+    color: #333; /* Slightly lighter color for the preview text */
+    margin: 10px 0; /* Space around the preview text */
+}
+
+/* Read More Button */
+.read-more {
+    text-align: right;
+    display: inline-block;
+    font-weight: bold;
+    color: #ffffff; /* Text color */
+    background-color: #555555; /* Background color */
+    text-decoration: none;
+    padding: 10px 20px; /* Padding inside the button */
+    border-radius: 4px; /* Optional: slightly rounded corners */
+    margin-top: 10px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.read-more:hover {
+    color: #000000;
+    background-color: #ffffff; /* Darker background on hover */
+    text-decoration: none; /* Ensure text is not underlined on hover */
+}
+
+/* Divider Line */
+.post-divider {
+    border: 0;
+    border-top: 1px solid #ddd; /* Light gray line */
+    margin: 20px 0; /* Space above and below the line */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column; /* Stack header elements vertically on small screens */
+        align-items: center; /* Center align items */
+    }
+
+    nav ul {
+        flex-direction: column; /* Stack navigation items vertically */
+        align-items: center; /* Center align navigation items */
+        margin-top: 10px; /* Space above navigation */
+    }
+
+    nav ul li {
+        margin: 5px 0; /* Space between navigation items */
+    }
+
+    .about-container {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items horizontally */
+    }
+
+    .about-image {
+        max-width: 100%; /* Ensure image fits within container */
+        margin-left: 0; /* Remove left margin */
+        margin-top: 20px; /* Add space above the image */
+    }
+}
+
+/* Gallery Container */
+.gallery-container {
+    column-count: 2; /* Number of columns; adjust based on screen size */
+    column-gap: 30px; /* Space between columns */
+    margin: 40px auto; /* Adjust margin as needed */
+    max-width: 1200px; /* Optional: set a max-width for better alignment */
+}
+
+/* Gallery Item */
+.gallery-item {
+    display: inline-block;
+    margin-bottom: 30px; /* Space between items */
+    width: 100%; /* Full width for each column item */
+    break-inside: avoid; /* Prevent breaks inside the item */
+}
+
+/* Gallery Item Image */
+.gallery-item img {
+    display: block;
+    width: 100%; /* Ensure the image takes up the full width of the item */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensure the whole image is shown without cropping */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; /* Smooth transition for hover effect */
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a slight shadow */
+}
+
+/* Hover Effect */
+.gallery-item img:hover {
+    transform: scale(0.95); /* Slightly scale the image on hover */
+     /* filter: grayscale(100%); /* Apply grayscale effect on hover */
+}
+
+/* Fullscreen Modal Styles */
+#imageModal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: #fff; /* White background for the modal */
+}
+
+#imageModal span {
+    position: absolute;
+    top: 20px;
+    right: 35px;
+    color: #000; /* Black color for the close button */
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#modalContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90%;
+    max-width: 800px;
+    transform: translate(-50%, -50%); /* Center the content */
+    text-align: center; /* Center the text and image */
+    background-color: #fff; /* White background for the image and description container */
+    padding: 10px; /* Optional: add padding around the content */
+    border-radius: 8px; /* Optional: add rounded corners */
+}
+
+#modalImage {
+    display: block;
+    max-width: 100%; /* Ensure the image scales correctly */
+    max-height: 80vh; /* Limit image height to prevent overflow */
+    margin: 0 auto; /* Center horizontally */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* Add a slight shadow */
+}
+
+#modalDescription {
+    font-family: 'PT Sans', sans-serif;
+    color: #000; /* Black text color for the description */
+    font-size: 0.9em; /* Similar to figcaption font size */
+    margin-top: 20px; /* Space between image and description */
+    font-size: 18px;
+}
+
+#modalDescription a {
+    color: #000000; /* Link color */
+    text-decoration: underline; /* Optional: Underline links */
+}
+
+#modalDescription a:hover {
+    text-decoration: none; /* Optional: Remove underline on hover */
+}
+
+@media (max-width: 1200px) {
+    .gallery-container {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 768px) {
+    .gallery-container {
+        column-count: 1;
+    }
+}
+
+/* Blog Image */
+.blog-image {
+    text-align: center; /* Center the image container */
+    margin: 20px 0; /* Space above and below the image */
+}
+
+.blog-image img {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: add rounded corners */
+}
+
+.blog-image figcaption {
+    font-size: 0.9em; /* Adjust font size as needed */
+    color: #666; /* Slightly lighter color for the caption text */
+    margin-top: 5px; /* Space between image and caption */
+}
+
+.contact-icons {
+    text-align: left;
+}
+
+.contact-icons a {
+    margin-right: 15px;
+    color: #333;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.contact-icons a:hover {
+    color: #6c6c6c;
+}
