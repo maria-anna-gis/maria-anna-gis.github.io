@@ -303,11 +303,11 @@ footer p {
 }
 
 .contact-icons {
-    text-align: centre;
+    text-align: center;
 }
 
 .contact-icons a {
-    margin-right: 150px;
+    margin-right: 0 10px;
     color: #333;
     font-size: 24px;
     text-decoration: none;
