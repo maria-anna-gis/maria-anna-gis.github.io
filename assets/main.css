@@ -223,8 +223,8 @@ footer p {
 }
 
 .experience-image {
-    width: 30px;  /* Adjust size */
-    height: auto;
+    width: 30px; 
+    height: 30px;
     margin-right: 10px;
 }
 
