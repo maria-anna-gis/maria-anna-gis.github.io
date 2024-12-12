@@ -5,11 +5,16 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p> This is a placeholder      <p> 
-        
-        I am currently pursuing a double master’s degree in the Copernicus Master in Digital Earth program, a joint initiative between the University of Salzburg, Austria and Palacký University Olomouc, Czech Republic. My research interests focus on changing environments.</p>
+        <p>  Hello! Welcome to my portfolio!      <p> 
+       
+    I am a Copernicus Master in Digital Earth Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+    
+    This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
+    
+       Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. 
+       Overall, my research interests focus on changing environments with a specific interest in geomorphology and the cryosphere.</p>
     </div>
-    <img src="{{ "/assets/images/Maria.jpg" | relative_url }}" alt="Maria" class="about-image">
+    <img src="{{ "/assets/images/maria.jpg" | relative_url }}" alt="Maria" class="about-image">
 </div>
 
 <!-- Icons Section -->
@@ -33,7 +38,7 @@ title: About
     </li>
     <li>
          <strong>Travel - Career Break | Septmeber 2021 - September 2022 </strong>
-         <br>Following completion of school, I lived I worked as a Swimming teacher and backpacked across northern europoe.
+         <br>Following completion of school, I worked as a Swimming teacher and backpacked across northern europoe.
     </li>
     <li>
         <strong>Travel - Career Break | Septmeber 2018 - September 2019 </strong>
