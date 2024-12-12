@@ -124,7 +124,7 @@ footer p {
     }
     
  h1 {
-    font-size: 10px;  /* Adjust the size as needed */
+    font-size: 10px !important;  /* Adjust the size as needed */
 }
     .gallery-container {
         flex-direction: column; /* Stack items vertically on smaller screens */
