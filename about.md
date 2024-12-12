@@ -14,7 +14,7 @@ title: About
        Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. 
        Overall, my research interests focus on changing environments with a specific interest in geomorphology and the cryosphere.
     </div>
-    <img src="{{ "maria-anna-gis.github.io/assets/images/about/maria.jpg" }}" alt="This is a photo of Maria" class="about-image">
+    <img src="{{ "maria-anna-gis.github.io/assets/about/maria.jpg" }}" alt="This is a photo of Maria" class="about-image">
 </div>
 
 <!-- Icons Section -->
