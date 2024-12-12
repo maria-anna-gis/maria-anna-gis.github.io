@@ -12,8 +12,9 @@ title: About
     This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
     
        Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. 
-       Overall, my study interests focus on changing environments with a specific interest in geomorphology and the cryosphere.</p>
-       Please feel free to explore my projects and blog in the navigation bar above. If you are interested in my work or my journey, please contact me in your preferred way via the links below.
+       Overall, my study interests focus on changing environments with a specific interest in geomorphology and the cryosphere.
+       </p>
+       Please feel free to explore my projects and blog in the navigation bar above. If you are interested in my work or my journey, please contact me in your preferred way via the links below. </p>
     </div>
      <img src="{{ "/assets/about/maria.jpg" | relative_url }}" alt="This is a photo of Maria" class="about-image">
 </div>
