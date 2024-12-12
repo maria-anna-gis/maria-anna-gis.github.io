@@ -5,13 +5,12 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p>  Hello, I am Maria, Welcome to my portfolio!      <p> 
+        <p>  Hello, I am Maria, Welcome to my portfolio!      </p> 
        
-    I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">EMJM Copernicus Master of Digital Earth</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
-    This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
-       </p> Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. Overall, my study interests focus on changing environments with a specific interest in geomorphology and the cryosphere. </p>
-      
-       </p> Please feel free to explore my projects and blog in the navigation bar above. If you are interested in my work or my journey, please contact me in your preferred way via the links below. </p>
+    <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">EMJM Copernicus Master of Digital Earth</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
+       <p> Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside continual expansion of my Cartographic skills. Overall, my study interests focus on changing environments with a specific interest in geomorphology and the cryosphere. </p>
+       <p> Please feel free to explore my projects and blog in the navigation bar above. If you are interested in my work or my journey, please contact me in your preferred way via the links below. </p>
     </div>
      <img src="{{ "/assets/about/maria.jpg" | relative_url }}" alt=" This is a photo of Maria, hiking in the mountains" class="about-image">
 </div>
