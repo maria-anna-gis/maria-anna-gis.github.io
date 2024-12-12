@@ -1,6 +1,6 @@
 /* Global Styles */
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -17,7 +17,7 @@ body {
 /* Header Styles */
 header {
     background-color: #ffffff;
-    color: #000000;
+    color: #bcc7df;
     padding: 10px 0;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -57,7 +57,7 @@ nav ul li {
 }
 
 nav a {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     color: #000000;
     text-decoration: none;
 }
@@ -85,8 +85,8 @@ main {
 
 /* Footer Styles */
 footer {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #bcc7df;
+    color: #585958;
     padding: 10px 0;
     position: relative;
     width: 100%;
@@ -308,11 +308,11 @@ footer p {
 
 .contact-icons a {
     margin-right: 0 10px;
-    color: #333;
+    color: #585958;
     font-size: 24px;
     text-decoration: none;
 }
 
 .contact-icons a:hover {
-    color: #6c6c6c;
+    color: #bcc7df;
 }
