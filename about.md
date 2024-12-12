@@ -29,7 +29,7 @@ title: About
     <li>
         <strong>Environmental Consultant | September 2022 - September 2024 </strong>
         <br>Savills, UK- Environment and Infrastructure Team
-        <br>Specialised in Air Quality, Acoustics and Health. Integrated GIS throughout projects/
+        <br>Specialised in Air Quality, Acoustics and Health. Integrated GIS throughout projects
     </li>
     <li>
          <strong>Travel - Career Break | Septmeber 2021 - September 2022 </strong>
@@ -52,7 +52,7 @@ title: About
         <br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geoinformatics & Earth Oberservation
     </li>
     <li>
-        <strong>Cardiff University, Wales | September 2019 - July 2023</strong>
-        <br>Bachelor of Science - BSc Hons, Environmental Geography
+        <strong>Cardiff University, Wales | September 2018 - July 2021</strong>
+        <br>Bachelor of Science - BSc First Class Hons, Environmental Geography
     </li>
 </ul>
