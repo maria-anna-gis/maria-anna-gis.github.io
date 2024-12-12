@@ -1,0 +1,11 @@
+title: Maria Anna Fedyszyn
+description: My E-Portfolio.
+baseurl: ""
+url: "https://maria-anna-gis.github.io/"
+markdown: kramdown
+
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
