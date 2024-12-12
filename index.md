@@ -7,7 +7,7 @@ title: About
     <div class="about-text">
         <p>  Hello, I am Maria, Welcome to my portfolio!      <p> 
        
-    I am a [ Copernicus Master in Digital Earth (CDE) ] (https://master-cde.eu/) Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+    I am a [Copernicus Master in Digital Earth (CDE)] (https://master-cde.eu/) Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
     
     This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
     
