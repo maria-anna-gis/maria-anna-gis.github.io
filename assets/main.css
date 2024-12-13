@@ -89,6 +89,7 @@ main {
 
 /* Footer Styles */
 footer {
+    font-size: 14px;
     background-color: #ffffff;
     color: #585958;
     padding: 8px 0;
