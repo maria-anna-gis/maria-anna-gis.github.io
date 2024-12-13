@@ -355,7 +355,7 @@ footer p {
 }
 
 .cde-logos {
-    width: 50px; /* Adjust size as needed */
+    width: 80px; /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 4px; /* Optional: rounded corners */
     transition: transform 0.2s ease;
