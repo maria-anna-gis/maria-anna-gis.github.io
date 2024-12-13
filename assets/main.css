@@ -350,6 +350,7 @@ footer p {
 
 .cde_logos {
     display: flex;
+    justify-content: center; /* Center icons horizontally */
     gap: 10px; /* Space between images */
     margin-top: 10px;
 }
@@ -357,7 +358,6 @@ footer p {
 .cde-logos {
     width: 110px; /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
-    text-align: center;
     border-radius: 4px; /* Optional: rounded corners */
     transition: transform 0.2s ease;
 }
