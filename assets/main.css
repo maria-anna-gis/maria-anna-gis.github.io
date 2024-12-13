@@ -330,3 +330,37 @@ footer p {
 .contact-icons a:hover {
     color: #bcc7df;
 }
+
+.image-links {
+    display: flex;
+    gap: 10px; /* Space between images */
+    margin-top: 10px;
+}
+
+.small-image {
+    width: 50px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 4px; /* Optional: rounded corners */
+    transition: transform 0.2s ease;
+}
+
+.small-image:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+}
+
+.cde_logos {
+    display: flex;
+    gap: 10px; /* Space between images */
+    margin-top: 10px;
+}
+
+.cde-logos {
+    width: 50px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 4px; /* Optional: rounded corners */
+    transition: transform 0.2s ease;
+}
+
+.cde-logos:hover {
+    transform: scale(1.1); /* Slight zoom on hover */
+}
