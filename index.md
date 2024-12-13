@@ -8,7 +8,7 @@ title: About
         <p>  Hello, I am Maria, Welcome to my portfolio!      </p> 
        
     <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">EMJM Copernicus Master of Digital Earth</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
-    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
+    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, reflecting my previous academic achievements and experiences. Please click on the logos below to learn more about the CDE programme and its host universities.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
          <img src="{{ "/assets/about/eu_pos.jpg" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
@@ -71,3 +71,8 @@ title: About
         <br>Bachelor of Science - BSc First Class Hons, Environmental Geography
     </li>
 </ul>
+
+<h2>Other notable bits!</h2>
+<p> I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
+<p> English is my mother tongue, but I am currently learning Czech and German. </p>     
+<p> I am proudly a <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">Practitioner with the Institute of Environmental Management and Assessment (PIEMA) </a>, <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">Registered Environmentalist (REnvP) with the Society for the Environment (SocEnv)</a>.  </p> 
