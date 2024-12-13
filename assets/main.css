@@ -323,7 +323,7 @@ footer p {
 .contact-icons a {
     margin-right: 0 10px;
     color: #585958;
-    font-size: 30px;
+    font-size: 40px;
     text-decoration: none;
 }
 
@@ -355,7 +355,7 @@ footer p {
 }
 
 .cde-logos {
-    width: 80px; /* Adjust size as needed */
+    width: 110px; /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
     text-align: center;
     border-radius: 4px; /* Optional: rounded corners */
