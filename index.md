@@ -11,7 +11,7 @@ title: About
     <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, as a reflection of my previous academic achievement and experiences.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
-         <img src="{{ "/assets/about/eu_pos.png" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
+         <img src="{{ "/assets/about/eu_pos.jpg" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
     </a>
     <a href="https://plus.ac.at" target="_blank">
         <img src="{{ "/assets/about/plus.jpg" | relative_url }}" alt="Paris Lodron University Logo" class="cde-logos">
