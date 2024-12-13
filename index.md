@@ -74,5 +74,5 @@ title: About
 
 <h2>Other notable bits!</h2>
 <p> I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
-<p> English is my mother tongue, but I am currently learning Czech and German. </p>     
+<p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA) </a>, and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
