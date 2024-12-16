@@ -5,7 +5,7 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p>  Hello, I am Maria, Welcome to my portfolio!      </p> 
+        <p>  Hello, I am Maria, welcome to my portfolio!</p> 
        
     <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
     <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, reflecting my previous academic achievements and experiences. Please click on the logos below to learn more about the CDE programme and its host universities.</p>
@@ -72,12 +72,11 @@ title: About
         <br>B.Sc., First Class Hons - Environmental Geography
         <br>Final year modules included “Environmental Management, Science and Policy”, “Remote Sensing and Spatial Analysis”, and “Environmental Geography Field course”.
         <br>Final year thesis (Grade 71). “The greening signal and vegetation change occurring over the Arctic from 2000-2020, interpreted from MODIS NDVI and NOAA Aeolian Data Using Google Earth Engine”. 
-    </li>
-</ul>
+      </li>
+    <li>
 
 <h2>Other important bits!</h2>
 <p> I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
 <p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
-<p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon, in May 2025, and hope to complete an Ironman in 2026.  </p> 
-
+<p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon, in May 2025, and hope to complete an Ironman in 2026!  </p> 
