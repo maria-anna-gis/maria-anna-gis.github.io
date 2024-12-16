@@ -48,7 +48,7 @@ title: About
     </li>
     <li>
          <strong>Travel - Career Break | September 2021 - September 2022 </strong>
-         <br>Following completion of my Undergraduate degree, I worked as a Swimming Teacher and backpacked across northern Europe. My favourite part of this was camping and hiking in the fjords of Norway and staying in remote off-grid cabins as part of the <a href="https://www.dnt.no/english" rel="external nofollow noopener" target="_blank">The Norwegian Trekking Association</a>.
+         <br>Following completion of my Undergraduate degree, I worked as a Swimming Teacher and backpacked across northern Europe. Fond memories from this time include hiking in remote areas of Norway and staying in off-grid Nowrweigian Treking Association cabins.
     </li>
      <li>
         <strong>Travel - Career Break | September 2018 - September 2019 </strong>
