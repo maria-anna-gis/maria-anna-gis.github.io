@@ -5,7 +5,7 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p>  Hello, I am <strong>Maria</strong>strong>, welcome to my portfolio!</p> 
+        <p>  Hello, I am <strong>Maria</strong>, welcome to my portfolio!</p> 
        
 <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
     <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, reflecting my previous academic achievements and experiences. Please click on the logos below to learn more about the CDE programme and its host universities.</p>
@@ -41,8 +41,7 @@ title: About
 <h2>Experience</h2>
 <ul>
     <li>
-        <strong>Environmental Consultant | September 2022 - September 2024 </strong>
-        <br>Savills, UK- Environment and Infrastructure Team
+        <strong>Environmental Consultant, Savills, UK- Environment and Infrastructure Team | September 2022 - September 2024 </strong>
         <br>Within this role, I specialised in Air Quality, Acoustics and Health within the planning system in the UK. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK.
     </li>
     <li>
@@ -76,7 +75,7 @@ title: About
 
 <h2>Other important bits!</h2>
 
-<p> I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
+<p>I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
 <p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
 <p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon, in May 2025, and hope to complete an Ironman in 2026!  </p> 
