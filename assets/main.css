@@ -18,8 +18,6 @@ body {
 header {
     background-color: #ffffff;
     color: #bcc7df;
-    padding: 10px 0;
-    height: 80px
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column; /* Stack header elements vertically */
