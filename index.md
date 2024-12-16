@@ -5,9 +5,9 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p>  Hello, I am Maria, welcome to my portfolio!</p> 
+        <p>  Hello, I am **Maria**, welcome to my portfolio!</p> 
        
-    <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
     <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, reflecting my previous academic achievements and experiences. Please click on the logos below to learn more about the CDE programme and its host universities.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
@@ -55,7 +55,8 @@ title: About
         <br>Following completion of school, I lived in Australia for one year. I travelled along the whole East Coast from Adelaide to Cairns. This time solidified my love for the physical environment, whilst developing personal drive and self-motivation to make the most of my time here.         
   </li>
     <li>
-        
+</div>
+    
 <h2>Education</h2>
 <ul>
     <li>
@@ -74,8 +75,10 @@ title: About
         <br>Final year thesis (Grade 71). “The greening signal and vegetation change occurring over the Arctic from 2000-2020, interpreted from MODIS NDVI and NOAA Aeolian Data Using Google Earth Engine”. 
       </li>
     <li>
-
+</div>
+    
 <h2>Other important bits!</h2>
+
 <p> I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
 <p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
