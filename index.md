@@ -31,7 +31,7 @@ title: About
     <a href="https://www.linkedin.com/in/maria-fedy/" target="_blank" aria-label="LinkedIn">
         <i class="fab fa-linkedin"></i>
     </a>
-    <a href="mailto:maria.fedyszyns@stud.plus.ac.at" aria-label="Email">
+    <a href="mailto:maria.fedyszyn@stud.plus.ac.at" aria-label="Email">
         <i class="fas fa-envelope"></i>
     </a>
 </div>
@@ -41,7 +41,6 @@ title: About
 <h2>Experience</h2>
 <ul>
     <li>
-        <img src="{{ '/assets/about/savills.png' | [https://www.savills.co.uk] }}" alt="Savills logo" class="experience-image">
         <strong>Environmental Consultant | September 2022 - September 2024 </strong>
         <br>Savills, UK- Environment and Infrastructure Team
         <br>Within this role, I specialised in Air Quality, Acoustics and Health within the planning system in the UK. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK.
