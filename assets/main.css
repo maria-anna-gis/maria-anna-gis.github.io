@@ -91,7 +91,6 @@ footer {
     font-size: 14px;
     background-color: #ffffff;
     color: #585958;
-    padding: 8px 0;
     position: relative;
     width: 100%;
     bottom: 0;
@@ -226,6 +225,7 @@ footer p {
     width: 30px; 
     height: 30px;
     margin-right: 10px;
+    align-items: center;
 }
 
 /* Blog Post List */
@@ -275,7 +275,7 @@ footer p {
 
 .read-more:hover {
     color: #000000;
-    background-color: #ffffff; /* Darker background on hover */
+    background-color: #bcc7df; /* Darker background on hover */
     text-decoration: none; /* Ensure text is not underlined on hover */
 }
 
