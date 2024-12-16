@@ -25,18 +25,18 @@
         </div>
     </header>
 
-    <div class="navbar">
-  <button class="hamburger" onclick="toggleMenu()">☰</button>
-  <ul id="nav-menu" class="nav-links">
-    <li><a href="https://maria-anna-gis.github.io">About</a></li>
-    <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
-    <li><a href="{{ site.baseurl }}/blog">Blog</a></li>>
-  </ul>
+<div class="navbar">
+    <button class="hamburger" onclick="toggleMenu()">☰</button>
+    <ul id="nav-menu" class="nav-links">
+        <li><a href="https://maria-anna-gis.github.io">About</a></li>
+        <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+    </ul>
 </div>
 
-   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-<script src="{{'/assets/js/script.js"'></script> | relative_url }}"></script>
-
+<link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    
     <main class="content-container">
         <h1>{{ page.title }}</h1>
         {% if page.date %}
