@@ -53,10 +53,9 @@ title: About
      <li>
         <strong>Travel - Career Break | September 2018 - September 2019 </strong>
         <br>Following completion of school, I lived in Australia for one year. I travelled along the whole East Coast from Adelaide to Cairns. This time solidified my love for the physical environment, whilst developing personal drive and self-motivation to make the most of my time here.         
+  </li>
     <li>
-    <li>
-</ul>
-
+        
 <h2>Education</h2>
 <ul>
     <li>
