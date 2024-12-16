@@ -88,13 +88,13 @@ main {
 
 /* Footer Styles */
 footer {
-    font-size: 14px;
+    font-size: 10px;
     background-color: #ffffff;
     color: #585958;
     position: relative;
     width: 100%;
     bottom: 0;
-    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 -4px 4px rgba(0, 0, 0, 0.1);
 }
 
 footer p {
