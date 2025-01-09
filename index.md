@@ -41,16 +41,16 @@ title: About
 <h2>Experience</h2>
 <ul>
     <li>
-        <strong>Environmental Consultant, Savills, UK- Environment and Infrastructure Team | September 2022 - September 2024 </strong>
+        <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
         <br>Within this role, I specialised in Air Quality, Acoustics and Health within the planning system in the UK. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK.
     </li>
     <li>
          <strong>Travel - Career Break | September 2021 - September 2022 </strong>
-         <br>Following completion of my Undergraduate degree, I worked as a Swimming Teacher and backpacked across northern Europe. Fond memories from this time include hiking in remote areas of Norway and staying in off-grid Nowrweigian Treking Association cabins.
+         <br>Following the completion of my Undergraduate degree, I worked as a Swimming Teacher and backpacked across northern Europe. Fond memories from this time include hiking in remote areas of Norway and staying in off-grid Norwegian Trekking Association (DNT) cabins.
     </li>
      <li>
         <strong>Travel - Career Break | September 2018 - September 2019 </strong>
-        <br>Following completion of school, I lived in Australia for one year. I travelled along the whole East Coast from Adelaide to Cairns. This time solidified my love for the physical environment, whilst developing personal drive and self-motivation to make the most of my time here.         
+        <br>Prior to beginning my Undergraduate degree, I lived in Australia for one year. I travelled along the whole East Coast from Adelaide to Cairns. This time solidified my love for the physical environment, whilst developing personal drive and self-motivation to make the most of my time here.         
   </li>
 </ul>
     
@@ -75,7 +75,7 @@ title: About
 
 <h2>Other important bits!</h2>
 
-<p>I am competent in using Microsoft Suite, ESRI Suite and QGIS, and have corporate experience across all these products. I also have experience using Python and JavaScript. My long-term favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
+<p>I have extensive corporate experience using Microsoft Suite, ESRI Suite and QGIS. I also have experience using Python and JavaScript. My favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
 <p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
-<p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon, in May 2025, and hope to complete an Ironman in 2026!  </p> 
+<p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon in May 2025, and hope to complete an Ironman in 2026!  </p> 
