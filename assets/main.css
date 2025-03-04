@@ -406,9 +406,8 @@ footer p {
   }
 
     .hut-image a {
-    margin-right: 0 10px;
-    color: #585958;
-    font-size: 100px;
-    text-decoration: none;
+        width: 200px;
+        height: auto;
+        align-item: centre
 }
 
