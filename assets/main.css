@@ -405,8 +405,14 @@ footer p {
     display: flex;
   }
 
+    .hut_image {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
     .hut-image a {
-        width: 200px;
+        width: 100px;
         height: auto;
         align-item: centre
 }
