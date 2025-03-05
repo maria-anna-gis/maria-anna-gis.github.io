@@ -417,3 +417,21 @@ footer p {
         align-item: centre
 }
 
+
+    .leaflet-container {
+    display: flex; /* Align items horizontally by default */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space out text and image */
+    margin: 20px 0; /* Margin for spacing around the container */
+}
+
+    .leaflet-image {
+        max-width: 100%; /* Ensure image fits within container */
+        margin-left: 0; /* Remove left margin */
+        margin-top: 20px; /* Add space above the image */
+    }
+
+    .leaflet-text {
+        flex: 1; /* Allow text to take up the remaining space */
+        line-height: 1.6; /* Line height for readability */
+}
