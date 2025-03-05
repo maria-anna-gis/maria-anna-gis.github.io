@@ -420,7 +420,10 @@ footer p {
 
     .leaflet-container {
         flex-direction: column; /* Stack items vertically */
-        align-items: center; 
+        display: flex; /* Align items horizontally by default */
+    align-items: center; /* Center items vertically */
+    justify-content: space-between; /* Space out text and image */
+    margin: 20px 0; /* Margin for spacing around the container */
 }
 
     .leaflet-image {
