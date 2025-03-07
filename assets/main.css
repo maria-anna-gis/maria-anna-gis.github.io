@@ -152,7 +152,8 @@ footer p {
 
 @media (max-width: 480px) {
     .container {
-        padding: 0 10px;  /* Adjust padding for mobile screens */
+        padding: 0 10px; 
+        position: sticky;/* for mobile screens */
     }
 
     .header-container {
