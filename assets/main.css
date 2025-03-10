@@ -288,7 +288,7 @@ footer p {
 /* Responsive Design */
 @media (max-width: 768px) {
     .header-container {
-        flex-direction: column; /* Stack header elements vertically on small screens */
+        flex-direction: row; /* Stack header elements vertically on small screens */
         align-items: center; /* Center align items */
     }
 
@@ -397,7 +397,7 @@ footer p {
 
   .nav-links {
     display: none;
-    flex-direction: column;
+    flex-direction: row;
   }
 
   .nav-links.active {
