@@ -7,7 +7,10 @@ permalink: /blog/First_semester
 ---
 
 ### A time for reflection
-At the time of writing this post, I have been in Salzburg for almost 5 months and that time has truly FLOWN by. It has been busy adjusting to life in another country as well as being a student again, but I have been thoroughly enjoying this new way of life. Time has been largely spent studying, of course, but also skiing, hiking, running and cycling in this beautiful place I get to call home for the year. In terms of soft skills, the academic experiences I have gained have greatly strengthened my project management and presenting skills, and these are both things which I am very proud of.
+At the time of writing this post, I have been in Salzburg for almost 5 months and that time has truly FLOWN by. It has been busy adjusting to life in another country as well as being a student again, but I have been thoroughly enjoying this new way of life.
+
+### So what have I been up to?
+Time has been largely spent studying, of course, but also skiing, hiking, running and cycling in this beautiful place I get to call home for the year. In terms of soft skills, the academic experiences I have gained have greatly strengthened my project management and presenting skills, and these are both things which I am very proud of.
 
 ### A quick debrief on modules taken
 During the past semester I took 9 modules which covered a broad range of topics. I will list here my key takeaways/learning points from each.
