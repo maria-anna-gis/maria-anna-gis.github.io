@@ -1,1 +1,11 @@
+- path: /_gallery/SAR.jpeg
+  description: "Visualising ground displacement resulting from the October 2015 Hindu Kush, Afghanistan, earthquake using Sentinel 1 SAR data."
 
+- path: /_gallery/leaflethuts.png
+  description: "A snapshot of an online Leaflet map showing all Alpenverein huts in Salzburg state, Austria"
+
+- path: /_gallery/arctic_ice.jpg
+  description: "Detailed infographic of sea ice retreat in the Arctic region"
+
+- path: /_gallery/kitz.png
+  description: "A 3D view of Kitzsteinhorn, one of my fabourite peaks in Salzburg"
