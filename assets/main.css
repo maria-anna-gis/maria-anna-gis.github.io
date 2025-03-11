@@ -150,25 +150,7 @@ footer p {
     }
 }
 
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 10px;
-  padding: 20px;
-  justify-content: center;
-}
 
-.gallery-item {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  transition: transform 0.2s ease-in-out;
-}
-
-.gallery-item:hover {
-  transform: scale(1.05);
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-}
 
 @media (max-width: 480px) {
     .container {
@@ -454,4 +436,50 @@ footer p {
     .leaflet-text {
         flex: 1; /* Allow text to take up the remaining space */
         line-height: 1.6; /* Line height for readability */
+}
+
+    
+/* Gallery Container */
+.gallery-container {
+    column-count: 2; 
+    column-gap: 30px; 
+    margin: 40px auto; 
+    max-width: 1200px; /* Optional: set a max-width for better alignment */
+}
+
+/* Gallery Item */
+.gallery-item {
+    display: inline-block;
+    margin-bottom: 40px; /* Space between items */
+    width: 100%; /* Full width for each column item */
+    break-inside: avoid; /* Prevent breaks inside the item */
+}
+
+/* Gallery Item Image */
+.gallery-item img {
+    display: block;
+    width: 100%; /* Ensure the image takes up the full width of the item */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensure the whole image is shown without cropping */
+    transition: transform 0.3s ease, box-shadow 0.3s ease, filter 0.3s ease; /* Smooth transition for hover effect */
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a slight shadow */
+}
+
+/* Hover Effect */
+.gallery-item img:hover {
+    transform: scale(0.95); /* Slightly scale the image on hover */
+     /* filter: grayscale(100%); /* Apply grayscale effect on hover */
+}
+
+@media (max-width: 1200px) {
+    .gallery-container {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 768px) {
+    .gallery-container {
+        column-count: 1;
+    }
 }
