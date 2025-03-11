@@ -45,8 +45,7 @@ title: About
     <li>
          <strong>Career Breaks </strong>
          <be> Between 2018 and 2021, I spent time living on the East Coast of Australia, Northern Italy, and spent an extended period backpacking across northern Europe. 
-  </li>
-</ul>
+
     
 <h2>Education</h2>
 <ul>
