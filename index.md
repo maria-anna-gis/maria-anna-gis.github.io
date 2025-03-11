@@ -6,8 +6,7 @@ title: About
 <div class="about-container">
     <div class="about-text">
        
-<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg.</p>
-    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship. Click on the logos below to learn more about the CDE programme and its host universities.</p>
+<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship. Click on the logos below to learn more about the CDE programme and its host universities.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
          <img src="{{ "/assets/about/eu_pos.jpg" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
