@@ -6,7 +6,7 @@ title: About
 <div class="about-container">
     <div class="about-text">
        
-<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of Earth Observation and Geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg.</p>
     <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship. Click on the logos below to learn more about the CDE programme and its host universities.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
