@@ -40,7 +40,7 @@ title: About
 
 * <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
 <br>I authored planning reports for residential and commercial developments, as well as larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK. Within this role, I also gained project management experience.
-* <strong>Career Breaks </strong>
+* <strong>Career Breaks and travels</strong>
 <br> Between 2018 and 2021, I spent time living on the East Coast of Australia, Northern Italy, and spent an extended period backpacking across northern Europe. 
 
 <h2>Education</h2>
