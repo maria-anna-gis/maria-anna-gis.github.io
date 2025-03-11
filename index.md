@@ -37,33 +37,24 @@ title: About
 <hr class="section-divider">
 
 <h2>Experience</h2>
-<ul>
-    <li>
-        <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
-        <br>I authored planning reports for residential and commercial developments, as well as larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK. Within this role, I also gained project management experience.
-    </li>
-    <li>
-         <strong>Career Breaks </strong>
-         <br> Between 2018 and 2021, I spent time living on the East Coast of Australia, Northern Italy, and spent an extended period backpacking across northern Europe. 
+
+* <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
+<br>I authored planning reports for residential and commercial developments, as well as larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK. Within this role, I also gained project management experience.
+* <strong>Career Breaks </strong>
+<br> Between 2018 and 2021, I spent time living on the East Coast of Australia, Northern Italy, and spent an extended period backpacking across northern Europe. 
 
 <h2>Education</h2>
-<ul>
-    <li>
-        <strong>Palacký University Olomouc, Czech Republic | September 2025 (Future)</strong>
-        <br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geovisualisation & Geocommunication
-    </li>
-    <li>
-        <strong>Paris Lodron Universität Salzburg, Austria | September 2024 (Current)</strong>
-        <br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geoinformatics & Earth Observation
-        <br>Current relevant modules include ‘Big Earth Data Concepts’, ‘Advanced Remote Sensing’, ‘Object-Based Image Analysis’, and ‘Advanced Cartography’.
-    </li>
-    <li>
-        <strong>Cardiff University, Wales | July 2023</strong>
-        <br>B.Sc., First Class Hons - Environmental Geography
-        <br>Final year modules included “Environmental Management, Science and Policy”, “Remote Sensing and Spatial Analysis”, and “Environmental Geography Field course”.
-        <br>Final year thesis (Grade 71). “The greening signal and vegetation change occurring over the Arctic from 2000-2020, interpreted from MODIS NDVI and NOAA Aeolian Data Using Google Earth Engine”. 
-  </li>
-</ul>
+
+* <strong>Palacký University Olomouc, Czech Republic | September 2025 (Future)</strong>
+<br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geovisualisation & Geocommunication
+* <strong>Paris Lodron Universität Salzburg, Austria | September 2024 (Current)</strong>
+<br>M.Sc., double degree, (EMJM) Copernicus Master in Digital Earth - Geoinformatics & Earth Observation
+<br>Current relevant modules include ‘Big Earth Data Concepts’, ‘Advanced Remote Sensing’, ‘Object-Based Image Analysis’, and ‘Advanced Cartography’.
+* <strong>Cardiff University, Wales | July 2023</strong>
+<br>B.Sc., First Class Hons - Environmental Geography
+<br>Final year modules included “Environmental Management, Science and Policy”, “Remote Sensing and Spatial Analysis”, and “Environmental Geography Field course”.
+<br>Final year thesis (Grade 71). “The greening signal and vegetation change occurring over the Arctic from 2000-2020, interpreted from MODIS NDVI and NOAA Aeolian Data Using Google Earth Engine”. 
+
 
 <h2>Other important bits!</h2>
 
