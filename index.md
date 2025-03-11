@@ -5,10 +5,9 @@ title: About
 
 <div class="about-container">
     <div class="about-text">
-        <p>  Hello, I am <strong>Maria</strong>, welcome to my portfolio!</p> 
        
-<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of earth observation and geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
-    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship, reflecting my previous academic achievements and experiences. Please click on the logos below to learn more about the CDE programme and its host universities.</p>
+<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Here, I am developing a strong understanding of Earth Observation and Geoinformatics. Next year, I will go to Palacký University Olomouc, Czech Republic, to specialize in Geovisualization and Geocommunication. </p>
+    <p>This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship. Click on the logos below to learn more about the CDE programme and its host universities.</p>
     <div class="cde_logos">
     <a href="https://master-cde.eu/" target="_blank">
          <img src="{{ "/assets/about/eu_pos.jpg" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
@@ -20,8 +19,8 @@ title: About
         <img src="{{ "/assets/about/upol.png" | relative_url }}" alt="Palacky University Logo" class="cde-logos">
     </a>
 </div>
-       <p> Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside the continual expansion of my Cartographic skills. Overall, my study interests focus on changing environments with a specific interest in geomorphology and the cryosphere. </p>
-       <p> Please feel free to explore my projects and blog in the navigation bar above. If you are interested in my work or my journey, don't hesitate to get in touch with me in your preferred way by clicking on the links below! </p>
+       <p> Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside the continual expansion of my Cartographic skills. My study interests focus on image analysis of changing environments with a specific interest in geomorphology, climate change, and humanitarian applications. </p>
+       <p>If you are interested in my work or my journey, don't hesitate to contact me in your preferred way by clicking on the links below! </p>
     </div>
      <img src="{{ "/assets/about/maria.jpg" | relative_url }}" alt=" This is a photo of Maria, hiking in the mountains" class="about-image">
 </div>
@@ -42,15 +41,11 @@ title: About
 <ul>
     <li>
         <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
-        <br>Within this role, I specialised in Air Quality, Acoustics and Health within the planning system in the UK. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK.
+        <br>I authored planning reports for residential and commercial developments, as well as larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK. Within this role, I also gained project management experience.
     </li>
     <li>
-         <strong>Travel - Career Break | September 2021 - September 2022 </strong>
-         <br>Following the completion of my Undergraduate degree, I worked as a Swimming Teacher and backpacked across northern Europe. Fond memories from this time include hiking in remote areas of Norway and staying in off-grid Norwegian Trekking Association (DNT) cabins.
-    </li>
-     <li>
-        <strong>Travel - Career Break | September 2018 - September 2019 </strong>
-        <br>Prior to beginning my Undergraduate degree, I lived in Australia for one year. I travelled along the whole East Coast from Adelaide to Cairns. This time solidified my love for the physical environment, whilst developing personal drive and self-motivation to make the most of my time here.         
+         <strong>Career Breaks </strong>
+         <be> Between 2018 and 2021, I spent time living on the East Coast of Australia, Northern Italy, and spent an extended period backpacking across northern Europe. 
   </li>
 </ul>
     
@@ -78,4 +73,4 @@ title: About
 <p>I have extensive corporate experience using Microsoft Suite, ESRI Suite and QGIS. I also have experience using Python and JavaScript. My favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p> 
 <p> English is my mother tongue, but I am also currently learning Czech and German. </p>     
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.  </p> 
-<p> In my free time I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon in May 2025, and hope to complete an Ironman in 2026!  </p> 
+<p> In my free time, I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon in May 2025, and plan to complete an Ironman in 2026!  </p> 
