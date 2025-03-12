@@ -6,20 +6,8 @@ title: About
 <div class="about-container">
     <div class="about-text">
        
-<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. This course is proudly co-funded by the European Union, and I am honoured to be the holder of a full scholarship. Click on the logos below to learn more about the CDE programme and its host universities.</p>
-    <div class="cde_logos">
-    <a href="https://master-cde.eu/" target="_blank">
-         <img src="{{ "/assets/about/eu_pos.jpg" | relative_url }}" alt="Co-funded by the European Union" class="cde-logos">
-    </a>
-    <a href="https://plus.ac.at" target="_blank">
-        <img src="{{ "/assets/about/plus.jpg" | relative_url }}" alt="Paris Lodron University Logo" class="cde-logos">
-    </a>
-    <a href="https://www.upol.cz/en/" target="_blank">
-        <img src="{{ "/assets/about/upol.png" | relative_url }}" alt="Palacky University Logo" class="cde-logos">
-    </a>
-</div>
-       <p> Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and the utilisation of Big Data alongside the continual expansion of my Cartographic skills. My study interests focus on image analysis of changing environments with a specific interest in geomorphology, climate change, and humanitarian applications. </p>
-       <p>If you are interested in my work or my journey, don't hesitate to contact me in your preferred way by clicking on the links below! </p>
+<p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> Student in my first year at Paris Lodron University of Salzburg. Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and utilising Big Data alongside the continual expansion of my Cartographic skills. My study interests focus on image analysis of changing environments with a specific interest in geomorphology, climate change, and humanitarian applications. </p>
+<p>If you are interested in my work or my journey, don't hesitate to contact me in your preferred way by clicking on the links below! </p>
     </div>
      <img src="{{ "/assets/about/maria.jpg" | relative_url }}" alt=" This is a photo of Maria, hiking in the mountains" class="about-image">
 </div>
