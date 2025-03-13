@@ -127,7 +127,8 @@ footer p {
  h1 {
     font-size: 20px !important;  /* Adjust the size as needed */
 }
-    .gallery-container {
+    
+.gallery-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 20px; 
@@ -146,13 +147,13 @@ footer p {
         
     }
     
-    .gallery-item {
+.gallery-item {
         display: grid;
         grid-template-columns: repeat(3,1fr)
         margin-bottom: 20px; /* Space between items */
     }
 
-    .gallery-item img {
+.gallery-item img {
         width: 100%; 
         height: auto;
         filter: none;
@@ -161,7 +162,7 @@ footer p {
         transition: 0.4s ease;
     }
 
-    .gallery-item img: hover {
+.gallery-item img: hover {
         filter: none; /* No grayscale on hover */
         transform: 1.2; /* No scale on hover */
     }
