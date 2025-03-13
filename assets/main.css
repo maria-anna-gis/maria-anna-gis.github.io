@@ -128,10 +128,22 @@ footer p {
     font-size: 20px !important;  /* Adjust the size as needed */
 }
     .gallery-container {
-        flex-direction: column; /* Stack items vertically on smaller screens */
-        align-items: center; /* Center items */
+        flex-direction: column;
+        column-count: 5;
+        column-gap: 10px; 
+        align-items: center;
+        
     }
 
+
+@media (max-width: 480px) {
+        flex-direction: column;
+        column-count: 1;
+        column-gap: 5px; 
+        align-items: center;
+        
+    }
+    
     .gallery-item {
         flex: 1 1 100%; /* Take full width on smaller screens */
         margin-bottom: 20px; /* Space between items */
@@ -140,13 +152,13 @@ footer p {
     .gallery-item img {
         width: 100%; /* Full width image on smaller screens */
         filter: none; /* Remove grayscale */
-        transform: none; /* Disable scale effect */
-        transition: none; /* Disable transition for instant effect */
+        transform: 0.8; 
+        transition: 0.8;
     }
 
-    .gallery-item img:hover {
+    .gallery-item img: hover {
         filter: none; /* No grayscale on hover */
-        transform: none; /* No scale on hover */
+        transform: 1.2; /* No scale on hover */
     }
 }
 
