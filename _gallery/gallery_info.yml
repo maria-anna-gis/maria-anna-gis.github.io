@@ -4,8 +4,8 @@
 - path: /_gallery/leaflethuts.png
   description: "A snapshot of an online Leaflet map showing all Alpenverein huts in Salzburg state, Austria"
 
-- path: /_gallery/arctic_ice.jpg
-  description: "Detailed infographic of sea ice retreat in the Arctic region"
-
 - path: /_gallery/kitz.png
   description: "A 3D view of Kitzsteinhorn, one of my fabourite peaks in Salzburg"
+
+- path: /_gallery/arctic_ice.jpg
+  description: "Detailed infographic of sea ice retreat in the Arctic region"
