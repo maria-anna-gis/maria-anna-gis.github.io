@@ -128,21 +128,21 @@ footer p {
     font-size: 20px !important;  /* Adjust the size as needed */
 }
 
-@media (max-width: 768px) {    
+
 .gallery-container {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         gap: 20px; 
         align-items: center;
         margin-top: 20px;
         margin-bottom: 20px;
         
     }
-}
+
 
 @media (max-width: 480px) {
     .gallery-container{
-        flex-direction: column;
+        grid-template-columna: 1fr;
         align-items: center;
         
     }
@@ -150,7 +150,7 @@ footer p {
 
 .gallery-item {
         width: 100%;
-        margin-bottom: 20px; /* Space between items */
+        margin-bottom: 20px;
     }
 
 .gallery-item img {
@@ -164,9 +164,9 @@ footer p {
 
 .gallery-item img:hover {
         filter: none; /* No grayscale on hover */
-        transform: scale(1.2); /* No scale on hover */
+        transform: scale(1.1); /* No scale on hover */
     }
-}
+
 
 @media (max-width: 480px) {
     .container {
