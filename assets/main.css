@@ -127,7 +127,8 @@ footer p {
  h1 {
     font-size: 20px !important;  /* Adjust the size as needed */
 }
-    
+
+@media (max-width: 768px) {    
 .gallery-container {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
@@ -137,7 +138,7 @@ footer p {
         margin-bottom: 20px;
         
     }
-
+}
 
 @media (max-width: 480px) {
     .gallery-container{
@@ -157,13 +158,13 @@ footer p {
         height: auto;
         filter: none;
         object-fit: cover;
-        transform: 0.8; 
+        transform: scale(0.8); 
         transition: 0.4s ease;
     }
 
-.gallery-item img: hover {
+.gallery-item img:hover {
         filter: none; /* No grayscale on hover */
-        transform: 1.2; /* No scale on hover */
+        transform: scale(1.2); /* No scale on hover */
     }
 }
 
@@ -420,35 +421,3 @@ footer p {
   .nav-links.active {
     display: flex;
   }
-
-    .hut_image {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 10px;
-}
-    .hut-image a {
-        width: 100px;
-        height: auto;
-        align-item: centre
-}
-
-
-    .leaflet-container {
-        flex-direction: column; /* Stack items vertically */
-        display: flex; /* Align items horizontally by default */
-    align-items: center; /* Center items vertically */
-    justify-content: space-between; /* Space out text and image */
-    margin: 20px 0; /* Margin for spacing around the container */
-}
-
-    .leaflet-image {
-        max-width: 100%; /* Ensure image fits within container */
-        margin-left: 0; /* Remove left margin */
-        margin-top: 20px; /* Add space above the image */
-    }
-
-    .leaflet-text {
-        flex: 1; /* Allow text to take up the remaining space */
-        line-height: 1.6; /* Line height for readability */
-}
