@@ -140,16 +140,15 @@ footer p {
 
 
 @media (max-width: 480px) {
+    .gallery-container{
         flex-direction: column;
-        column-count: 1;
-        column-gap: 5px; 
         align-items: center;
         
     }
-    
+}
+
 .gallery-item {
-        display: grid;
-        grid-template-columns: repeat(3,1fr)
+        width: 100%;
         margin-bottom: 20px; /* Space between items */
     }
 
