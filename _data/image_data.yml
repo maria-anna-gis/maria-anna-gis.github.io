@@ -13,5 +13,5 @@
 - path: /assets/gallery/eryri.png
   description: "Contemporary view of Eryri National Park (Snowdonia) (above), with a detailed view of Cadair Idris (below). Created using ArcGIS Pro."
 
-  - path: /assets/gallery/ireland.png
+- path: /assets/gallery/ireland.png
   description: "Overspill map of Ireland. Created using ArcGIS Pro."
