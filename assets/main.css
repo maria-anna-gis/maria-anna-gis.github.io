@@ -133,7 +133,7 @@ footer p {
         flex-direction: column;
         column-count: 2;
         align-items: center;
-        gap: 5px; 
+        gap: 30px; 
         margin: 30px auto; 
         max-width: 1200px; 
         
@@ -167,7 +167,7 @@ footer p {
 
 .gallery-item img:hover {
         filter: none; /* No grayscale on hover */
-        transform: scale(1.1); /* No scale on hover */
+        transform: scale(0.9); /* No scale on hover */
     }
 
 
@@ -224,7 +224,7 @@ footer p {
     width: 100%;
     height: 100%;
     overflow: auto;
-    background-color: #fff; /* White background for the modal */
+    background-color: #cccccc; /* grey background for the modal */
 }
 
 #imageModal span {
@@ -232,7 +232,7 @@ footer p {
     top: 20px;
     right: 35px;
     color: #000; /* Black color for the close button */
-    font-size: 40px;
+    font-size: 50px;
     font-weight: bold;
     cursor: pointer;
 }
@@ -245,7 +245,7 @@ footer p {
     max-width: 800px;
     transform: translate(-50%, -50%); /* Center the content */
     text-align: center; /* Center the text and image */
-    background-color: #fff; /* White background for the image and description container */
+    background-color: #cccccc; /* White background for the image and description container */
     padding: 10px; /* Optional: add padding around the content */
     border-radius: 8px; /* Optional: add rounded corners */
 }
@@ -259,7 +259,7 @@ footer p {
 }
 
 #modalDescription {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     color: #000; /* Black text color for the description */
     font-size: 0.9em; /* Similar to figcaption font size */
     margin-top: 20px; /* Space between image and description */
