@@ -6,7 +6,7 @@ title: About
 <div class="about-container">
     <div class="about-text">
        
-Hiya, my name is <strong>Maria</strong>, welcome to my e-portfolio! <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> student in my first year at Paris Lodron University in Salzburg. Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and utilising Big Data alongside the continual expansion of my Cartographic skills. My  interests focus on image analysis of changing environments, with a specific interest in  climate change, geomorphology, and humanitarian applications. </p>
+Hello! My name is <strong>Maria</strong>, welcome to my e-portfolio! <p>I am a <a href="https://master-cde.eu/" rel="external nofollow noopener" target="_blank">Erasmus Mundus Joint Master (EMJM) "Copernicus Master in Digital Earth" (CDE)</a> student in my first year at Paris Lodron University in Salzburg. Currently, I am focusing on expanding my knowledge of Remote Sensing Techniques and utilising Big Data alongside the continual expansion of my Cartographic skills. My  interests focus on image analysis of changing environments, with a specific interest in  climate change, geomorphology, and humanitarian applications. </p>
 <p>If you are interested in my work or my journey, don't hesitate to contact me in your preferred way by clicking on the links below! </p>
     </div>
      <img src="{{ "/assets/about/maria.jpg" | relative_url }}" alt=" This is a photo of Maria, hiking in the mountains" class="about-image">
