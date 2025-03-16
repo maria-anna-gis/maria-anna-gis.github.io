@@ -6,6 +6,10 @@ categories: [blog]
 permalink: /blog/First_semester
 ---
 
+<div class="blog-image">
+  <img src="{{ '/assets/blogs/WS24header.png' | relative_url }}" alt="Some moments from first semester" width="100%">
+</div>
+
 ### A time for reflection.
 At the time of writing, I have been in Salzburg for almost 5 months and that time has truly FLOWN by. It has been busy adjusting to life in another country, as well as being a student again, but I have been thoroughly enjoying this new way of life.
 
