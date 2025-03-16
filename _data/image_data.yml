@@ -1,17 +1,20 @@
 - path: /assets/gallery/SAR.jpeg
   description: "Visualising ground displacement resulting from the October 2015 Hindu Kush, Afghanistan, earthquake using Sentinel 1 SAR data. Created using SNAPHU and Google Earth."
 
+- path: /assets/gallery/saofelix.jpg
+  description: "A high level assessment of burned vs deforested areas in São Félix do Xingu using Sentinel 2 imagery. Created in ArcGIS Pro "
+  
 - path: /assets/gallery/leaflethuts.png
   description: "A snapshot of an online map showing all Alpenverein huts in Salzburg state, Austria. Created using Leaflet"
 
 - path: /assets/gallery/arctic_ice.jpg
-  description: "Detailed infographic of sea ice retreat in the Arctic region. Created using ArcGIS Pro."
+  description: "Detailed infographic of sea ice retreat in the Arctic region. Created in ArcGIS Pro."
 
 - path: /assets/gallery/kitz.png
-  description: "A 3D view of Kitzsteinhorn, one of my favourite peaks in Salzburg. Created using ArcGIS Pro."
+  description: "A 3D view of Kitzsteinhorn, one of my favourite peaks in Salzburg. Created in ArcGIS Pro."
 
 - path: /assets/gallery/eryri.png
-  description: "Contemporary view of Eryri National Park (Snowdonia) (above), with a detailed view of Cadair Idris (below). Created using ArcGIS Pro."
+  description: "Contemporary view of Eryri National Park (Snowdonia) (above), with a detailed view of Cadair Idris (below). Created in ArcGIS Pro."
 
 - path: /assets/gallery/ireland.png
-  description: "Overspill map of Ireland. Created using ArcGIS Pro."
+  description: "Overspill map of Ireland. Created in ArcGIS Pro."
