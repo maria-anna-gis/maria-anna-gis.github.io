@@ -19,8 +19,8 @@
 - path: /assets/gallery/ireland.png
   description: "Overspill map of Ireland. Created in ArcGIS Pro."
 
-  - path: /assets/gallery/bad_map.png
+- path: /assets/gallery/bad_map.png
   description: "A "bad" map, showing all places in Germany with 'bad' in the name. Created using R."
   
-    - path: /assets/gallery/bivar_age_imd.png
+- path: /assets/gallery/bivar_age_imd.png
   description: "Bivariate map of IMD and age in the UK. Created using R."
