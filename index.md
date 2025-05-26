@@ -26,9 +26,9 @@ Hello! My name is <strong>Maria</strong>, welcome to my e-portfolio! <p>I am a <
 
 <h2>Experience</h2>
 * <strong>Environmental Consultant, Savills, UK | September 2022 - September 2024 </strong>
-<br>I authored planning reports for residential and commercial developments, as well as for larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK whilst also gaining project management experience in a corporate environment.
+<br>I authored planning reports for residential and commercial developments, as well as for larger Nationally Significant Infrastructure Projects (NSIPs) relating to Air Quality, Acoustics and Health. I integrated GIS throughout projects and developed a holistic understanding of the planning system in the UK, whilst also gaining project management experience in a corporate environment.
 * <strong>Career Breaks and travels</strong>
-<br> Between 2018 and 2021, I spent time living on the East Coast of Australia, in Northern Italy (Turin and Bardonecchia), and also spent an extended period backpacking in Norway. Through all of this, I have developed a strong passion and appreciation for the beauty of Earth and I am driven to do my part in protecting it for generations to come.
+<br> Between 2018 and 2021, I spent time living on the East Coast of Australia, in Northern Italy (Turin and Bardonecchia), and also spent an extended period backpacking in Norway. Through all of this, I have developed a strong passion and appreciation for the beauty of Earth, and I am driven to do my part in protecting it for generations to come.
 
 <h2>Education</h2>
 * <strong>Palacký University Olomouc, Czech Republic | September 2025 (Future)</strong>
@@ -42,6 +42,6 @@ Hello! My name is <strong>Maria</strong>, welcome to my e-portfolio! <p>I am a <
 
 
 <h2>Some other notes!</h2>
-<p>I have corporate experience using Microsoft Suite, ESRI Suite and QGIS. I also have experience using Python and JavaScript. My current favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p>  
+<p>I have corporate experience using Microsoft Suite, ESRI Suite and QGIS. I also have experience using Python, R and JavaScript. My current favourite geospatial processing tool is Google Earth Engine (GEE) simply because of how versatile yet powerful it is! </p>  
 <p> I am proudly a Practitioner with the Institute of Environmental Management and Assessment <a href="https://www.iema.net/" rel="external nofollow noopener" target="_blank">(IEMA)</a> and a Registered Environmentalist (REnvP) with the Society for the Environment <a href="https://socenv.org.uk/" rel="external nofollow noopener" target="_blank">(SocEnv)</a>.</p> 
-<p>English is my mother tongue and I am also currently learning Czech (A2) and German (A1). And, in my free time, I seek out adventures, whether that be hiking, skiing or on my road bike. I am currently training for my second marathon in May 2025, and plan to complete an Ironman in 2026!</p> 
+<p>English is my mother tongue, and I am also currently learning Czech. And, in my free time, I seek out adventures, whether that be hiking, skiing or on my road bike. I recently completed a marathon under 4 hours, and plan to complete an Ironman in 2026!</p> 
